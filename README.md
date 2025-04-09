@@ -119,7 +119,7 @@ Add Communication Notifications support:
 {
     "message": {
         "token": "<FCM_TOKEN>",
-        "notifications": {
+        "notification": {
             "title": "Notification Title",
             "body": "Notification Content"
         }
